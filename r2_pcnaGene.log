@@ -1,0 +1,25 @@
+PLINK v1.90b6.17 64-bit (28 Apr 2020)
+Options in effect:
+  --bfile /rc_scratch/paro1093/rs169xCPD/snpsPCNAgene
+  --ld-window-r2 0
+  --out r2_pcnaGene
+  --r2
+
+Hostname: bnode0108.rc.int.colorado.edu
+Working directory: /rc_scratch/paro1093/rs169xCPD
+Start time: Fri Oct  1 15:43:55 2021
+
+Random number seed: 1633124635
+257672 MB RAM detected; reserving 128836 MB for main workspace.
+61 variants loaded from .bim file.
+486565 people (222691 males, 263860 females, 14 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to r2_pcnaGene.nosex .
+Using up to 47 threads (change this with --threads).
+Before main variant filters, 486565 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.990628.
+61 variants and 486565 people pass filters and QC.
+Note: No phenotypes present.
+--r2 to r2_pcnaGene.ld ... done.
+
+End time: Fri Oct  1 15:43:56 2021
